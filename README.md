@@ -127,7 +127,7 @@ If you require further assistance contact the support team @ [Discord](https://d
 ## Section D: Preparing the Local wallet
 
 ***Step 1***
-* Download and install the Anodos wallet [here](https://github.com/InstaDex-Coin/InstaDEX/releases)
+* Download and install the InstaDEX wallet [here](https://github.com/InstaDex-Coin/InstaDEX/releases)
 ***
 
 ***Step 2***
