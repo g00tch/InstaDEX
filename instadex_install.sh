@@ -10,7 +10,7 @@ COIN_TGZ='https://github.com/InstaDex-Coin/InstaDEX/files/2179743/Instadexd.cli.
 COIN_ZIP=$(echo $COIN_TGZ | awk -F'/' '{print $NF}')
 COIN_NAME='InstaDEX'
 COIN_PORT=7779
-RPC_PORT=41473
+RPC_PORT=7778
 
 NODEIP=$(curl -s4 icanhazip.com)
 
