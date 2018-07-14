@@ -197,6 +197,7 @@ Click "File Save"
 *You should see ***Masternode Successfully Started***
 
 If you do, congratulations! You have now setup a masternode. If you do not, please contact support and they will assist you.
+***
 
 Donations are not required, but greatly appreciated :)
 
