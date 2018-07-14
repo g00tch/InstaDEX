@@ -183,7 +183,7 @@ Click "File Save"
 ***Step 3***
 * Close out of the wallet and reopen Wallet
 *Open the Debug Console
-* Type the command below: masternode start-alias (masternode name)
+* Type the command below and press Enter
 
 `masternode start-alias (masternode name)` 
 ![Example-start](https://i.imgur.com/96JdqgQ.png)
