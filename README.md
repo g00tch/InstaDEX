@@ -138,7 +138,7 @@ If you require further assistance contact the support team @ [Discord](https://d
 * Create a new receiving address and send EXACTLY 10,000 InstaDEX to that address from within your wallet.
 ![Example-address](https://i.imgur.com/dcC5ZRu.png)
 ![Example-address2](https://i.imgur.com/2AnJX16.png)
-![Example-send](https://i.imgur.com/2AnJX16.png)
+![Example-send](https://i.imgur.com/p0MtcWD.png)
 ***
 
 ***step 4***
